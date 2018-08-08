@@ -14,12 +14,15 @@ Summary: Enhanced completion for Click
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/click-completion-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/click-completion-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/click-completion-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/click-completion-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/click-completion/badges/version.svg)](https://anaconda.org/conda-forge/click-completion)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/click-completion/badges/downloads.svg)](https://anaconda.org/conda-forge/click-completion)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-click--completion-green.svg)](https://anaconda.org/conda-forge/click-completion) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/click-completion.svg)](https://anaconda.org/conda-forge/click-completion) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/click-completion.svg)](https://anaconda.org/conda-forge/click-completion) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/click-completion.svg)](https://anaconda.org/conda-forge/click-completion) |
 
 Installing click-completion
 ===========================
