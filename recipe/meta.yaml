@@ -1,6 +1,6 @@
 {% set name = "click-completion" %}
-{% set version = "0.3.1" %}
-{% set sha256 = "7ca12978493a7450486cef155845af4fae48744c3f97b7250a254de65c9e5e5a" %}
+{% set version = "0.5.0" %}
+{% set sha256 = "7600261cda0954b9794bd7afdaab35201be50a8c5404eaa4c0deb20086866c4c" %}
 
 package:
   name: {{ name|lower }}
