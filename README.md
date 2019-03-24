@@ -1,7 +1,3 @@
-<!--
-# -*- mode: jinja -*-
--->
-
 About click-completion
 ======================
 
@@ -23,9 +19,14 @@ the options and commands help during the completion.
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/click-completion-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/click-completion-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/click-completion-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/click-completion-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/click-completion-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/click-completion-feedstock/branch/master)
+
+<table><tr>
+    <td>All platforms:</td>
+    <td>
+      <img src="https://img.shields.io/badge/noarch-disabled-lightgrey.svg" alt="noarch disabled">
+    </td>
+  </tr>
+</table>
 
 Current release info
 ====================
