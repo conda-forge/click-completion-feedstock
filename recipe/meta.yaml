@@ -12,21 +12,21 @@ source:
   sha256: {{ sha256 }}
 
 build:
-  number: 4
+  number: 5
+  noarch: python
   script: {{ PYTHON }} -m pip install . --no-deps -vv
 
 requirements:
   host:
     - python
-    - pip
+    - pip >=3.6
     - setuptools
 
   run:
-    - python
+    - python >=3.6
     - six
     - click
     - jinja2
-    - enum34  # [ py < 30 ]
     - shellingham
 
 test:
