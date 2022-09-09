@@ -19,11 +19,11 @@ build:
 requirements:
   host:
     - python
-    - pip
+    - pip >=3.6
     - setuptools
 
   run:
-    - python
+    - python >=3.6
     - six
     - click
     - jinja2
